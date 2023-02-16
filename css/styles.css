@@ -9080,3 +9080,7 @@ p {
   color: #344d4c;
   font-weight: bolder;
   font-family: 'Open Sans', sans-serif; }
+
+.form-label {
+  color: #344d4c;
+  font-weight: bolder; }

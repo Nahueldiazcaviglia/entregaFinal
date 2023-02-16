@@ -16,3 +16,6 @@
   p{ @include colorAndFuente;
     font-family: 'Open Sans', sans-serif;
   }
+  .form-label{
+    @include colorAndFuente;
+  }
